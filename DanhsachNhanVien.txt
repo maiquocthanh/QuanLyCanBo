@@ -1,0 +1,6 @@
+---------------------------DANH SACH CAC CAN BO NHAN VIEN ----------------------------
+
+Ho va Ten           PhongBan  ChucVu    	HeSL      NgayCong  PhuCap    Luong(USD)
+---------------------------------------------------------------------------------------
+Mai Quoc Thanh      KTT       Nhan Vien 	10.0      20.0      500       8400.0    
+Le Thi Mai          HHSS      Pho Phong 	12.0      10.0      1000      10060.0   
